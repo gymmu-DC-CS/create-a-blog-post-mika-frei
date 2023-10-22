@@ -6,16 +6,39 @@
 
 body {
   margin: 0;
-  background-color: grey;
+  background-color:white;
   font-family: sans-serif;
 }
 
-body 2 {
-  
-}
+
 
 h1{
 
 text-align: center;
-color: aqua;
+color: yellow;
+background-color:black;
 }
+
+
+h2{
+
+  color: black;
+  background-color: gray;
+}
+
+h3{#box
+  [background-color]  <element rgb>(87, 87, 19);
+  border: 10px solid black;
+  margin: 70px;
+  padding: 10px;
+  width: 300px;
+  height: 300px;
+
+
+
+}
+
+
+
+
+
