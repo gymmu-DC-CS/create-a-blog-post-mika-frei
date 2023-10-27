@@ -50,13 +50,11 @@ font-family: Arial, Helvetica, sans-serif
 
 
 #who{
+
   font-size: 35px;
   text-align: center;
   color: black;
   font-family: Arial, Helvetica, sans-serif;
-  
-  
-  
 
 }
 
@@ -146,13 +144,18 @@ font-family:Arial, Helvetica, sans-serif
 
 }
 
-h6{
+#location{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
 
-font-family: Arial, Helvetica, sans-serif;
-color: black;
-font-size: 15px;
 
 }
+
+ 
+  
+
+
 
 
 
